@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Felipe Giannetti Fontenelle
+Matricula: 844191
 
 ## Tela de inspeção com navegador
-
+![alt text](<Captura de tela 2025-02-18 141629.png>)
 
 ## Tela de projeto no Replit
-
+![alt text](<Captura de tela 2025-02-18 142109.png>)
